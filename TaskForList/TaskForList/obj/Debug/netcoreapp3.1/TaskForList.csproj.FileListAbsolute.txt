@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Code Academy\C# - Tasks\C# Tasks -12\TaskForList\TaskForList\bin\Debug\netcoreapp3.1\TaskForList.exe
+C:\Users\user\Documents\Code Academy\C# - Tasks\C# Tasks -12\TaskForList\TaskForList\bin\Debug\netcoreapp3.1\TaskForList.deps.json
+C:\Users\user\Documents\Code Academy\C# - Tasks\C# Tasks -12\TaskForList\TaskForList\bin\Debug\netcoreapp3.1\TaskForList.runtimeconfig.json
+C:\Users\user\Documents\Code Academy\C# - Tasks\C# Tasks -12\TaskForList\TaskForList\bin\Debug\netcoreapp3.1\TaskForList.runtimeconfig.dev.json
+C:\Users\user\Documents\Code Academy\C# - Tasks\C# Tasks -12\TaskForList\TaskForList\bin\Debug\netcoreapp3.1\TaskForList.dll
+C:\Users\user\Documents\Code Academy\C# - Tasks\C# Tasks -12\TaskForList\TaskForList\bin\Debug\netcoreapp3.1\TaskForList.pdb
+C:\Users\user\Documents\Code Academy\C# - Tasks\C# Tasks -12\TaskForList\TaskForList\obj\Debug\netcoreapp3.1\TaskForList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Code Academy\C# - Tasks\C# Tasks -12\TaskForList\TaskForList\obj\Debug\netcoreapp3.1\TaskForList.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Code Academy\C# - Tasks\C# Tasks -12\TaskForList\TaskForList\obj\Debug\netcoreapp3.1\TaskForList.AssemblyInfo.cs
+C:\Users\user\Documents\Code Academy\C# - Tasks\C# Tasks -12\TaskForList\TaskForList\obj\Debug\netcoreapp3.1\TaskForList.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Code Academy\C# - Tasks\C# Tasks -12\TaskForList\TaskForList\obj\Debug\netcoreapp3.1\TaskForList.dll
+C:\Users\user\Documents\Code Academy\C# - Tasks\C# Tasks -12\TaskForList\TaskForList\obj\Debug\netcoreapp3.1\TaskForList.pdb
+C:\Users\user\Documents\Code Academy\C# - Tasks\C# Tasks -12\TaskForList\TaskForList\obj\Debug\netcoreapp3.1\TaskForList.genruntimeconfig.cache
+C:\Users\user\Documents\Code Academy\C# - Tasks\C# Tasks -12\TaskForList\TaskForList\obj\Debug\netcoreapp3.1\TaskForList.csproj.AssemblyReference.cache
