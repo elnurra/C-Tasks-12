@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\Code Academy\\C# - Tasks\\C# Tasks -12\\TaskForList\\TaskForList\\TaskForList.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\Code Academy\\C# - Tasks\\C# Tasks-12\\TaskForList\\TaskForList\\TaskForList.csproj",
       "projectName": "TaskForList",
-      "projectPath": "C:\\Users\\user\\Documents\\Code Academy\\C# - Tasks\\C# Tasks -12\\TaskForList\\TaskForList\\TaskForList.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\Code Academy\\C# - Tasks\\C# Tasks-12\\TaskForList\\TaskForList\\TaskForList.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\Code Academy\\C# - Tasks\\C# Tasks -12\\TaskForList\\TaskForList\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\Code Academy\\C# - Tasks\\C# Tasks-12\\TaskForList\\TaskForList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
